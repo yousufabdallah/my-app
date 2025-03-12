@@ -123,7 +123,7 @@ function Dashboard({ session }: { session: Session }) {
               <h1 className="text-2xl font-bold text-gray-900 text-right">RESTA SOFTWARE</h1>
               <p className="text-gray-600 text-right">إدارة ومراقبة جميع اشتراكات العملاء.</p>
             </div>
-            {/* هنا نظرة عامة */}
+            {/* سطر 126 نظرة عامة */}
           </main>
         )}
       </div>
