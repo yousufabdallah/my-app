@@ -120,10 +120,10 @@ function Dashboard({ session }: { session: Session }) {
         ) : (
           <main className="flex-1 bg-gray-50 p-6">
             <div className="mb-8">
-              <h1 className="text-2xl font-bold text-gray-900 text-right">الاشتراكات</h1>
+              <h1 className="text-2xl font-bold text-gray-900 text-right">RESTA SOFTWARE</h1>
               <p className="text-gray-600 text-right">إدارة ومراقبة جميع اشتراكات العملاء.</p>
             </div>
-            {/* Other content */}
+            {/* هنا نظرة عامة */}
           </main>
         )}
       </div>
