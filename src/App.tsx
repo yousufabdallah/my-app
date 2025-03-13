@@ -74,7 +74,7 @@ function Dashboard({ session }: { session: Session }) {
               }`}
             >
               <ShoppingCart className="w-5 h-5 mr-3" />
-              تكامل المتجر
+              المخزن
             </button>
             <button
               onClick={() => setCurrentPage('analytics')}
@@ -92,7 +92,7 @@ function Dashboard({ session }: { session: Session }) {
               }`}
             >
               <Calendar className="w-5 h-5 mr-3" />
-              التقويم
+              المواعيد
             </button>
             <button
               onClick={() => setCurrentPage('notifications')}
